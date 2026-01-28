@@ -54,13 +54,6 @@
                      ─ [color=#364266]Silicon[/color]
      [color=#bfbfbf]Heals poison. Overdose at 15u.[/color]
      ────────────────────────────────────
-     [color=#0064c8][bolditalic]SALINE:[/bolditalic][/color]
-                     ─ [color=#75b1f0]Water[/color] × 4
-                     ▼ [color=#cfd1d0][bold]Table Salt[/bold][/color] × 1 (mix above 370K)
-                      |  ─ [color=#a2ff00]Chlorine[/color]
-                      |  ─ [color=#a7b3d6]Sodium[/color]
-     [color=#bfbfbf]Restores blood level. No overdose. [/color]
-     ────────────────────────────────────
      [color=#404040][bolditalic]OCULINE:[/bolditalic][/color]
                      ─ [color=#800000]Blood[/color] × 1
                      ▼ [color=#cccccc][bold]Hydroxide[/bold][/color] × 2 (mix above 310K)
@@ -71,19 +64,23 @@
                       |  ─ [color=#a7b3d6]Sodium[/color]
      [color=#bfbfbf]Treats eyesight. No overdose. [/color]
      ────────────────────────────────────
-     [color=#9fcc5d][bolditalic]PHALANXIMINE:[/bolditalic][/color]
-                     ─ [color=#b05b3c]Ethanol[/color]
-                     ▼ [color=#4cb580][bold]Hyronalin[/bold][/color]
-                      |  ─ [color=#00ff04]Radium[/color]
-                      |  ▼ [color=#3a1d8a][bold]Dylovene[/bold][/color]
-                      |   |  ─ [color=#a1e1ff]Nitrogen[/color]
-                      |   |  ─ [color=#c6c8cc]Potassium[/color]
-                      |   |  ─ [color=#364266]Silicon[/color]
-                     ▼ [color=#00ff5f][bold]Unstable Mutagen[/bold][/color]
+     [color=#0064c8][bolditalic]SALINE:[/bolditalic][/color]
+                     ─ [color=#75b1f0]Water[/color] × 4
+                     ▼ [color=#cfd1d0][bold]Table Salt[/bold][/color] × 1 (mix above 370K)
                       |  ─ [color=#a2ff00]Chlorine[/color]
-                      |  ─ [color=#f5da9a]Phosphorous[/color]
-                      |  ─ [color=#00ff04]Radium[/color]
-     [color=#bfbfbf]Heals cellular. Anti-cancer. Deals minor radiation and caustic damage. Overdose at 11u.[/color]
+                      |  ─ [color=#a7b3d6]Sodium[/color]
+     [color=#bfbfbf]Restores blood level. No overdose. [/color]
+     ────────────────────────────────────
+     [color=#00e5ff][bolditalic]TRICORDRAZINE:[/bolditalic][/color]
+                     ▼ [color=#3a1d8a][bold]Dylovene[/bold][/color]
+                      |  ─ [color=#a1e1ff]Nitrogen[/color]
+                      |  ─ [color=#c6c8cc]Potassium[/color]
+                      |  ─ [color=#364266]Silicon[/color]
+                     ▼ [color=#731024][bold]Inaprovaline[/bold][/color]
+                      |  ─ [color=#22282b]Carbon[/color]
+                      |  ─ [color=#9cc3cc]Oxygen[/color]
+                      |  ─ [color=#cccccc]Sugar[/color]
+     [color=#bfbfbf]Heals all damage except radiation, caustic and cellular, so long as the patient is below 100 total damage. No overdose. [/color]
      ────────────────────────────────────
 
 [head=2]ADDITIONAL INFORMATION[/head]
