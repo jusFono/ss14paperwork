@@ -1,23 +1,23 @@
 # ACCESS PERMIT
 [color=#404040][color=#1b67a5]█▄ █ ▀█▀    [head=3]ACCESS REQUEST FORM[/head]
-█ ▀█      █         [color=red]INVALID UNLESS STAMPED OR SIGNED[/color][/color]
-[color=#1b67a5]──────────────────────────────────────
+█ ▀█      █         INVALID UNLESS STAMPED OR SIGNED
+──────────────────────────────────────
      This form is used to issue departmental access to specified personnel in accordance with §1-04 and §3-04.
 ──────────────────────────────────────[/color]
 
-[color=#404040][head=2]PERSONAL DETAILS[/head][/color]
+[head=2]PERSONAL DETAILS[/head]
 
-     [color=#404040][bolditalic]NAME:[/bolditalic][/color]    [/color][color=#000000 ]BLANK [/color]
-                     [color=#404040]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-     [color=#404040][bolditalic]JOB:[/bolditalic][/color]         [/color][color=#000000 ](if any) [/color]
-                     [color=#404040]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-     [color=#404040][bolditalic]CAUSE:[/bolditalic][/color]   [/color][color=#000000 ]BLANK [/color]
-                     [color=#404040]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
-    [color=#404040] \[  ] I certify that the provided information is accurate[/color]
+     [bolditalic]NAME:[/bolditalic]    [color=#000000]•••[/color]
+                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+     [bolditalic]JOB:[/bolditalic]         [color=#000000]•••[/color]
+                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+     [bolditalic]CAUSE:[/bolditalic]   [color=#000000]•••[/color]
+                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+     \[  ] I certify that the provided information is accurate
 
-[color=#404040][head=2]ACCESS REQUEST[/head]
-     [color=#404040]────────────────────────────────────[/color]
-     [color=#404040][bolditalic]NON-SECURE AREAS:[/bolditalic][/color]
+[head=2]ACCESS REQUEST[/head]
+     ────────────────────────────────────
+     [bolditalic]NON-SECURE AREAS:[/bolditalic]
                      \[  ] [color=#000000 ]External [/color]
                      \[  ] [color=#539c00 ]Service [/color]
                           \[  ] [color=#539c00 ]Bar [/color]
@@ -35,8 +35,8 @@
                           \[  ] [color=#57b8f0 ]Chemistry[/color]
                      \[  ] [color=#cd7ccd]Science[/color]
      [color=#bfbfbf]Authorisation is required by the head of the department.[/color]
-     [color=#404040]────────────────────────────────────[/color]
-     [color=#404040][bolditalic]SECURE AREAS:[/bolditalic][/color]
+     ────────────────────────────────────
+     [bolditalic]SECURE AREAS:[/bolditalic]
                      \[  ] [color=#ff4242]Security [/color]
                           \[  ] [color=#ff4242 ]Brig [/color]
                           \[  ] [color=#ff4242 ]Armory [/color]
@@ -52,14 +52,14 @@
                           \[  ] [color=#fcdf03 ]Quartermaster [/color]
      [color=#bfbfbf]Authorisation is required by the head of the department and/or the Captain.
      A Mindshield implant must be administered to personnel requesting access to secure areas.[/color]
-     [color=#404040]────────────────────────────────────[/color]
+     ────────────────────────────────────
 
-[color=#404040][head=2]ADDITIONAL INFORMATION[/head]
+[head=2]ADDITIONAL INFORMATION[/head]
 
      • Multiple accesses can be approved so long as each required head of department has stamped and/or signed.
      • The Captain or Head of Personnel may authorise access if the required head of a department is unavailable.
      • Once authorised, the permit holder must keep this permit with them at all times.
      • This permit can be revoked at any time by the individual who granted it or the Captain.
 
-[color=#404040][head=2]AUTHORISATION[/head][/color]
+[head=2]AUTHORISATION[/head]
 [/color]
