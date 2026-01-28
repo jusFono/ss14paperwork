@@ -1,0 +1,92 @@
+# BASIC MEDICINES
+[color=#404040][color=#5b97bc]█▄ █ ▀█▀    [head=3]BASIC MEDICINES[/head]
+█ ▀█      █         CHEMICAL SYNTHESIS GUIDE
+──────────────────────────────────────
+     This guide is used to provide chemists with a list of basic medicines and their recipes.
+──────────────────────────────────────[/color]
+
+[head=2]NAMING CONVENTION[/head]
+
+     Medicine should be appropriately labelled with its name, application and overdose quantity.
+
+     [italic]FOR EXAMPLE:[/italic]
+                     ─ BIC - Brute (15u OD)
+
+[head=2]BASIC MEDICINES[/head]
+     ────────────────────────────────────
+     [color=#bd5902][bolditalic]ARITHRAZINE:[/bolditalic][/color]
+                     ─ [color=#cccccc]Hydrogen[/color]
+                     ▼ [color=#4cb580][bold]Hyronalin[/bold][/color]
+                      |  ─ [color=#00ff04]Radium[/color]
+                      |  ▼ [color=#3a1d8a][bold]Dylovene[/bold][/color]
+                      |   |  ─ [color=#a1e1ff]Nitrogen[/color]
+                      |   |  ─ [color=#c6c8cc]Potassium[/color]
+                      |   |  ─ [color=#364266]Silicon[/color]
+     [color=#bfbfbf]Heals radiation. Deals minor brute damage. No overdose. [/color]
+     ────────────────────────────────────
+     [color=#ffaa00][bolditalic]BICARIDINE:[/bolditalic][/color]
+                     ─ [color=#22282b]Carbon[/color]
+                     ▼ [color=#731024][bold]Inaprovaline[/bold][/color]
+                      |  ─ [color=#22282b]Carbon[/color]
+                      |  ─ [color=#9cc3cc]Oxygen[/color]
+                      |  ─ [color=#cccccc]Sugar[/color]
+     [color=#bfbfbf]Heals brute. Overdose at 15u.[/color]
+     ────────────────────────────────────
+     [color=#215263][bolditalic]DERMALINE:[/bolditalic][/color]
+                     ─ [color=#9cc3cc]Oxygen[/color]
+                     ─ [color=#f5da9a]Phosphorus[/color]
+                     ▼ [color=#bf3d19][bold]Kelotane[/bold][/color]
+                      |  ─ [color=#22282b]Carbon[/color]
+                      |  ─ [color=#364266]Silicon[/color]
+     [color=#bfbfbf]Heals burns, except caustic. Overdose at 10u.[/color]
+     ────────────────────────────────────
+     [color=#4da0bd][bolditalic]DEXALIN PLUS:[/bolditalic][/color]
+                     ─ [color=#22282b]Carbon[/color]
+                     ─ [color=#434b4d]Iron[/color]
+                     ▼ [color=#0041a8][bold]Dexalin[/bold][/color]
+                      |  ─ [color=#9cc3cc]Oxygen[/color]
+                      |  ─ [color=#7e009e][italic]Plasma[/italic][/color]
+     [color=#bfbfbf]Heals airloss. Overdose at 25u.[/color]
+     ────────────────────────────────────
+     [color=#3a1d8a][bolditalic]DYLOVENE:[/bolditalic][/color]
+                     ─ [color=#a1e1ff]Nitrogen[/color]
+                     ─ [color=#c6c8cc]Potassium[/color]
+                     ─ [color=#364266]Silicon[/color]
+     [color=#bfbfbf]Heals poison. Overdose at 15u.[/color]
+     ────────────────────────────────────
+     [color=#0064c8][bolditalic]SALINE:[/bolditalic][/color]
+                     ─ [color=#75b1f0]Water[/color] × 4
+                     ▼ [color=#cfd1d0][bold]Table Salt[/bold][/color] × 1 (mix above 370K)
+                      |  ─ [color=#a2ff00]Chlorine[/color]
+                      |  ─ [color=#a7b3d6]Sodium[/color]
+     [color=#bfbfbf]Restores blood level. No overdose. [/color]
+     ────────────────────────────────────
+     [color=#404040][bolditalic]OCULINE:[/bolditalic][/color]
+                     ─ [color=#800000]Blood[/color] × 1
+                     ▼ [color=#cccccc][bold]Hydroxide[/bold][/color] × 2 (mix above 310K)
+                      |  ─ [color=#cccccc]Hydrogen[/color]
+                      |  ─ [color=#9cc3cc]Oxygen[/color]
+                     ▼ [color=#cfd1d0][bold]Table Salt[/bold][/color] × 1 (mix above 370K)
+                      |  ─ [color=#a2ff00]Chlorine[/color]
+                      |  ─ [color=#a7b3d6]Sodium[/color]
+     [color=#bfbfbf]Treats eyesight. No overdose. [/color]
+     ────────────────────────────────────
+     [color=#9fcc5d][bolditalic]PHALANXIMINE:[/bolditalic][/color]
+                     ─ [color=#b05b3c]Ethanol[/color]
+                     ▼ [color=#4cb580][bold]Hyronalin[/bold][/color]
+                      |  ─ [color=#00ff04]Radium[/color]
+                      |  ▼ [color=#3a1d8a][bold]Dylovene[/bold][/color]
+                      |   |  ─ [color=#a1e1ff]Nitrogen[/color]
+                      |   |  ─ [color=#c6c8cc]Potassium[/color]
+                      |   |  ─ [color=#364266]Silicon[/color]
+                     ▼ [color=#00ff5f][bold]Unstable Mutagen[/bold][/color]
+                      |  ─ [color=#a2ff00]Chlorine[/color]
+                      |  ─ [color=#f5da9a]Phosphorous[/color]
+                      |  ─ [color=#00ff04]Radium[/color]
+     [color=#bfbfbf]Heals cellular. Anti-cancer. Deals minor radiation and caustic damage. Overdose at 11u.[/color]
+     ────────────────────────────────────
+
+[head=2]ADDITIONAL INFORMATION[/head]
+
+     • One should not be afraid to ask a fellow chemist or the Chief Medical Officer for any assistance.
+     • This is not a complete list of every medicine a chemist should be making during their shift. Consultation of other guides and/or asking for direction is advised.

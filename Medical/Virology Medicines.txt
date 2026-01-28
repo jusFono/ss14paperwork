@@ -1,0 +1,84 @@
+# BASIC MEDICINES
+[color=#404040][color=#5b97bc]█▄ █ ▀█▀    [head=3]VIROLOGY MEDICINES[/head]
+█ ▀█      █         CHEMICAL SYNTHESIS GUIDE
+──────────────────────────────────────
+     This guide is used to provide chemists with a list of virology medicines and their recipes.
+──────────────────────────────────────[/color]
+
+[head=2]NAMING CONVENTION[/head]
+
+     Medicine should be appropriately labelled with its name, application and overdose quantity.
+
+     [italic]FOR EXAMPLE:[/italic]
+                     ─ PHALANX - Cellular, Cancer (11u OD)
+
+[head=2]VIROLOGY MEDICINES[/head]
+     ────────────────────────────────────
+     [color=#a2af8a][bolditalic]IMMURIN:[/bolditalic][/color]
+                     ─ [color=#434b4d]Iron[/color]
+                     ─ [color=#cccccc]Sugar[/color]
+                     ▼ [color=#731024][bold]Inaprovaline[/bold][/color]
+                      |  ─ [color=#22282b]Carbon[/color]
+                      |  ─ [color=#9cc3cc]Oxygen[/color]
+                      |  ─ [color=#cccccc]Sugar[/color]
+     [color=#bfbfbf]Boosts immunity to infection. No overdose.[/color]
+     ────────────────────────────────────
+     [color=#559955][bolditalic]SPACEACILIN:[/bolditalic][/color]
+                     ▼ [bold][color=#3a1d8a]Dylovene[/color][/bold] × 1
+                      |  ─ [color=#a1e1ff]Nitrogen[/color]
+                      |  ─ [color=#c6c8cc]Potassium[/color]
+                      |  ─ [color=#364266]Silicon[/color]
+                     ▼ [bold][color=#a2af8a]Immurin[/color][/bold] × 2
+                      |  ─ [color=#434b4d]Iron[/color]
+                      |  ─ [color=#cccccc]Sugar[/color]
+                      |  ▼ [color=#731024][bold]Inaprovaline[/bold][/color]
+                      |   |  ─ [color=#22282b]Carbon[/color]
+                      |   |  ─ [color=#9cc3cc]Oxygen[/color]
+                      |   |  ─ [color=#cccccc]Sugar[/color]
+     [color=#bfbfbf]Anti-bacterial. Slightly weakens immunity. No overdose.[/color]
+     ────────────────────────────────────
+     [color=#995555][bolditalic]DEVIRATE:[/bolditalic][/color]
+                     ─ [color=#b05b3c]Copper[/color] × 1
+                     ▼ [bold][color=#a2af8a]Immurin[/color][/bold] × 2
+                      |  ─ [color=#434b4d]Iron[/color]
+                      |  ─ [color=#cccccc]Sugar[/color]
+                      |  ▼ [color=#731024][bold]Inaprovaline[/bold][/color]
+                      |   |  ─ [color=#22282b]Carbon[/color]
+                      |   |  ─ [color=#9cc3cc]Oxygen[/color]
+                      |   |  ─ [color=#cccccc]Sugar[/color]
+     [color=#bfbfbf]Anti-viral. Deals minor poison damage. No overdose.[/color]
+     ────────────────────────────────────
+     [color=#9fcc5d][bolditalic]PHALANXIMINE:[/bolditalic][/color]
+                     ─ [color=#b05b3c]Ethanol[/color]
+                     ▼ [color=#4cb580][bold]Hyronalin[/bold][/color]
+                      |  ─ [color=#00ff04]Radium[/color]
+                      |  ▼ [color=#3a1d8a][bold]Dylovene[/bold][/color]
+                      |   |  ─ [color=#a1e1ff]Nitrogen[/color]
+                      |   |  ─ [color=#c6c8cc]Potassium[/color]
+                      |   |  ─ [color=#364266]Silicon[/color]
+                     ▼ [color=#00ff5f][bold]Unstable Mutagen[/bold][/color]
+                      |  ─ [color=#a2ff00]Chlorine[/color]
+                      |  ─ [color=#f5da9a]Phosphorous[/color]
+                      |  ─ [color=#00ff04]Radium[/color]
+     [color=#bfbfbf]Heals cellular. Anti-cancer. Deals minor radiation and caustic damage. Overdose at 11u.[/color]
+     ────────────────────────────────────
+     [color=#1274b5][bolditalic]AMBUZOL PLUS:[/bolditalic][/color]
+                     ─ [color=#000000]Omnizine[/color]
+                     ▼ [bold][color=#86caf7]Ambuzol[/color][/bold]
+                      |  ─ [color=#2b0700]Zombie Blood[/color] × 2
+                      |  ▼ [color=#77b58e][bold]Ammonia[/bold][/color] × 1
+                      |   |  ─ [color=#cccccc]Hydrogen[/color] × 3
+                      |   |  ─ [color=#a1e1ff]Nitrogen[/color] × 1
+                      |  ▼ [color=#3a1d8a][bold]Dylovene[/bold][/color] × 1
+                      |   |  ─ [color=#a1e1ff]Nitrogen[/color]
+                      |   |  ─ [color=#c6c8cc]Potassium[/color]
+                      |   |  ─ [color=#364266]Silicon[/color]
+     [color=#bfbfbf]Ambuzol cures an ongoing zombie infection at 10u.
+     Ambuzol Plus cures an ongoing zombie infection and prevents re-infection at 5u. [/color]
+     ────────────────────────────────────
+
+[head=2]ADDITIONAL INFORMATION[/head]
+
+     • One should not be afraid to ask a fellow chemist or the Chief Medical Officer for any assistance.
+     • This is not a complete list of every medicine a chemist should be making during their shift. Consultation of other guides and/or asking for direction is advised.
+     • Any chemical synthesis recipes for the curing and prevention of zombie infections are purely hypothetical, and should not be interpreted in a way which suggests that zombies are a reality.

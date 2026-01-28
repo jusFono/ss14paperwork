@@ -1,0 +1,157 @@
+# ADVANCED MEDICINES
+[color=#404040][color=#5b97bc]█▄ █ ▀█▀    [head=3]ADVANCED MEDICINES[/head]
+█ ▀█      █         CHEMICAL SYNTHESIS GUIDE
+──────────────────────────────────────
+     This guide is used to provide chemists with a list of advanced medicines and their recipes.
+──────────────────────────────────────[/color]
+
+[head=2]NAMING CONVENTION[/head]
+
+     Medicine should be appropriately labelled with its name, application and overdose quantity.
+
+     [italic]FOR EXAMPLE:[/italic]
+                     ─ OXAN - Burns (25u OD)
+
+[head=2]ADVANCED MEDICINES[/head]
+     ────────────────────────────────────
+     [color=#35295f][bolditalic]ARTIPLATES:[/bolditalic][/color] (mix above 310K)
+                     ─ [color=#b05b3c]Copper[/color] × 1
+                     ─ [color=#434b4d]Iron[/color] × 1
+                     ▼ [color=#0064c8][bold]Saline[/bold][/color] × 3
+                      |  ─ [color=#75b1f0]Water[/color] × 4
+                      |  ▼ [color=#cfd1d0][bold]Table Salt[/bold][/color] × 1 (mix above 370K)
+                      |   |  ─ [color=#a2ff00]Chlorine[/color]
+                      |   |  ─ [color=#a7b3d6]Sodium[/color]
+                     ▼ [color=#ba7d7d][bold]Tranexamic Acid[/bold][/color] × 2
+                      |  ─ [color=#cccccc]Sugar[/color]
+                      |  ▼ [color=#731024][bold]Inaprovaline[/bold][/color]
+                      |   |  ─ [color=#22282b]Carbon[/color]
+                      |   |  ─ [color=#9cc3cc]Oxygen[/color]
+                      |   |  ─ [color=#cccccc]Sugar[/color]
+                      |  ▼ [color=#bf8c00][bold]Sulfuric Acid[/bold][/color]
+                      |   |  ─ [color=#cccccc]Hydrogen[/color] × 1
+                      |   |  ─ [color=#9cc3cc]Oxygen[/color] × 2
+                      |   |  ─ [color=#ccc26a]Sulfur[/color] × 1
+     [color=#bfbfbf]Heals bloodloss, stops bleeding and restores blood level. Overdose at 11u.[/color]
+     ────────────────────────────────────
+     [color=#572757][bolditalic]ATROPINE:[/bolditalic][/color]
+                     ─ [color=#b05b3c]Ethanol[/color]
+                     ▼ [color=#af14b7][bold]Acetone[/bold][/color]
+                      |  ─ [color=#9cc3cc]Oxygen[/color]
+                      |  ─ [color=#a76b1c]Welding Fuel[/color]
+                      |  ▼ [color=#b67823][bold]Oil[/bold][/color]
+                      |   |  ─ [color=#22282b]Carbon[/color]
+                      |   |  ─ [color=#cccccc]Hydrogen[/color]
+                      |   |  ─ [color=#a76b1c]Welding Fuel[/color]
+                     ▼ [color=#a1000b][bold]Diethylamine[/bold][/color]
+                      |  ─ [color=#b05b3c]Ethanol[/color]
+                      |  ▼ [color=#77b58e][bold]Ammonia[/bold][/color]
+                      |   |  ─ [color=#cccccc]Hydrogen[/color] × 3
+                      |   |  ─ [color=#a1e1ff]Nitrogen[/color] × 1
+                     ▼ [color=#b4b671][bold]Phenol[/bold][/color]
+                      |  ▼ [color=#cccccc][bold]Hydroxide[/bold][/color] (mix above 310K)
+                      |   |  ─ [color=#cccccc]Hydrogen[/color]
+                      |   |  ─ [color=#9cc3cc]Oxygen[/color]
+                      |  ▼ [color=#b4b671]Benzene[/color] (mix above 310K)
+                      |   |  ─ [color=#22282b]Carbon[/color]
+                      |   |  ─ [color=#cccccc]Hydrogen[/color]
+     [color=#bfbfbf]Rapidly heals patients in a critical state. Overdose at 35u.[/color]
+     ────────────────────────────────────
+     [color=#cac6bf][bolditalic]OXANDROLONE:[/bolditalic][/color]
+                     ▼ [color=#215263][bold]Dermaline[/bold][/color]
+                      |  ─ [color=#9cc3cc]Oxygen[/color]
+                      |  ─ [color=#f5da9a]Phosphorus[/color]
+                      |  ▼ [color=#bf3d19][bold]Kelotane[/bold][/color]
+                      |   |  ─ [color=#22282b]Carbon[/color]
+                      |   |  ─ [color=#364266]Silicon[/color]
+                     ▼ [color=#ff7db5][bold]Leporazine[/bold][/color]
+                      |  ─ [color=#b05b3c]Copper[/color]
+                      |  ─ [color=#7e009e][italic]Plasma[/italic][/color]
+                      |  ▼ [color=#434b4d][bold]Fersilicite[/bold][/color] (mix above 310K)
+                      |   |  ─ [color=#434b4d]Iron[/color]
+                      |   |  ─ [color=#364266]Silicon[/color]
+                     ▼ [color=#b4b671][bold]Phenol[/bold][/color]
+                      |  ▼ [color=#cccccc][bold]Hydroxide[/bold][/color] (mix above 310K)
+                      |   |  ─ [color=#cccccc]Hydrogen[/color]
+                      |   |  ─ [color=#9cc3cc]Oxygen[/color]
+                     ▼ [color=#cccccc][bold]Sodium Carbonate[/bold][/color]
+                      |  ─ [color=#22282b]Carbon[/color]
+                      |  ─ [color=#9cc3cc]Oxygen[/color]
+                      |  ▼ [color=#77b58e][bold]Ammonia[/bold][/color]
+                      |   |  ─ [color=#cccccc]Hydrogen[/color] × 3
+                      |   |  ─ [color=#a1e1ff]Nitrogen[/color] × 1
+                      |  ▼ [color=#cfd1d0][bold]Table Salt[/bold][/color] (mix above 370K)
+                      |   |  ─ [color=#a2ff00]Chlorine[/color]
+                      |   |  ─ [color=#a7b3d6]Sodium[/color]
+     [color=#bfbfbf]Heals burns. Overdose at 25u.[/color]
+     ────────────────────────────────────
+     [color=#22ff1a][bolditalic]PENTENIC ACID:[/bolditalic][/color]
+                     ▼ [color=#1abcff][bold]Cyanide[/bold][/color] (mix above 380K)
+                      |  ─ [color=#9cc3cc]Oxygen[/color]
+                      |  ▼ [color=#77b58e][bold]Ammonia[/bold][/color]
+                      |   |  ─ [color=#cccccc]Hydrogen[/color] × 3
+                      |   |  ─ [color=#a1e1ff]Nitrogen[/color] × 1
+                      |  ▼ [color=#b67823][bold]Oil[/bold][/color]
+                      |   |  ─ [color=#22282b]Carbon[/color]
+                      |   |  ─ [color=#cccccc]Hydrogen[/color]
+                      |   |  ─ [color=#a76b1c]Welding Fuel[/color]
+                     ▼ [color=#27870a][bold]Haloperidol[/bold][/color] (mix under 370K)
+                      |  ─ [color=#848789]Aluminium[/color]
+                      |  ─ [color=#a2ff00]Chlorine[/color]
+                      |  ─ [color=#ba85cc]Fluorine[/color]
+                      |  ▼ [color=#b67823][bold]Oil[/bold][/color]
+                      |   |  ─ [color=#22282b]Carbon[/color]
+                      |   |  ─ [color=#cccccc]Hydrogen[/color]
+                      |   |  ─ [color=#a76b1c]Welding Fuel[/color]
+                      |  ▼ [color=#baa15d][bold]Potassium Iodide[/bold][/color]
+                      |   |  ─ [color=#bc8a00]Iodine[/color]
+                      |   |  ─ [color=#c6c8cc]Potassium[/color]
+                     ▼ [color=#a1000b][bold]Polytrinic Acid[/bold][/color]
+                      |  ─ [color=#7e009e]Plasma[/color]
+                      |  ─ [color=#c6c8cc]Potassium[/color]
+                      |  ▼ [color=#bf8c00][bold]Sulfuric Acid[/bold][/color]
+                      |   |  ─ [color=#cccccc]Hydrogen[/color] × 1
+                      |   |  ─ [color=#9cc3cc]Oxygen[/color] × 2
+                      |   |  ─ [color=#ccc26a]Sulfur[/color] × 1
+                     ▼ [color=#baa15d][bold]Potassium Iodide[/bold][/color]
+                      |  ─ [color=#bc8a00]Iodine[/color]
+                      |  ─ [color=#c6c8cc]Potassium[/color]
+     [color=#bfbfbf]Heals toxins. Flushes chemicals from bloodstream.
+No overdose.[/color]
+     ────────────────────────────────────
+     [color=#e8cb4e][bolditalic]SALICYLIC ACID:[/bolditalic][/color] (mix above 370K)
+                     ▼ [color=#ffaa00][bold]Bicaridine[/bold][/color]
+                      |  ─ [color=#22282b]Carbon[/color]
+                      |  ▼ [color=#731024][bold]Inaprovaline[/bold][/color]
+                      |   |  ─ [color=#22282b]Carbon[/color]
+                      |   |  ─ [color=#9cc3cc]Oxygen[/color]
+                      |   |  ─ [color=#cccccc]Sugar[/color]
+                     ▼ [color=#5050ff][bold]Fluorosulfuric Acid[/bold][/color]
+                      |  ─ [color=#ba85cc]Fluorine[/color]
+                      |  ─ [color=#cccccc]Hydrogen[/color]
+                      |  ─ [color=#c6c8cc]Potassium[/color]
+                      |  ▼ [color=#bf8c00][bold]Sulfuric Acid[/bold][/color]
+                      |   |  ─ [color=#cccccc]Hydrogen[/color] × 1
+                      |   |  ─ [color=#9cc3cc]Oxygen[/color] × 2
+                      |   |  ─ [color=#ccc26a]Sulfur[/color] × 1
+                     ▼ [color=#cccccc][bold]Sodium Hydroxide[/bold][/color]
+                      |  ─ [color=#a7b3d6]Sodium[/color]
+                      |  ▼ [color=#cccccc][bold]Hydroxide[/bold][/color] (mix above 310K)
+                      |   |  ─ [color=#cccccc]Hydrogen[/color]
+                      |   |  ─ [color=#9cc3cc]Oxygen[/color]
+                     ▼ [color=#ba7d7d][bold]Tranexamic Acid[/bold][/color]
+                      |  ─ [color=#cccccc]Sugar[/color]
+                      |  ▼ [color=#731024][bold]Inaprovaline[/bold][/color]
+                      |   |  ─ [color=#22282b]Carbon[/color]
+                      |   |  ─ [color=#9cc3cc]Oxygen[/color]
+                      |   |  ─ [color=#cccccc]Sugar[/color]
+                      |  ▼ [color=#bf8c00][bold]Sulfuric Acid[/bold][/color]
+                      |   |  ─ [color=#cccccc]Hydrogen[/color] × 1
+                      |   |  ─ [color=#9cc3cc]Oxygen[/color] × 2
+                      |   |  ─ [color=#ccc26a]Sulfur[/color] × 1
+     [color=#bfbfbf]Heals brute. Overdose at 25u.[/color]
+     ────────────────────────────────────
+
+[head=2]ADDITIONAL INFORMATION[/head]
+
+     • This is not a complete list of every medicine a chemist should be making during their shift. Consultation of other guides and/or asking for direction is advised.
