@@ -5,11 +5,10 @@
      This guide is used to provide chemists with a list of basic medicines and their recipes.
 ──────────────────────────────────────[/color]
 
-[head=2]NAMING CONVENTION[/head]
+[head=2]INTRODUCTION[/head]
 
-     Medicine should be appropriately labelled with its name, application and overdose quantity.
-
-     [italic]FOR EXAMPLE:[/italic]
+     • Medicine should be appropriately labelled with its name, application and overdose quantity.
+     [bolditalic]FOR EXAMPLE:[/bolditalic]
                      ─ BIC - Brute (15u OD)
 
 [head=2]BASIC MEDICINES[/head]

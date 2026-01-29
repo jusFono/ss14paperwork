@@ -5,16 +5,9 @@
      This guide is used to provide chemists with a list of advanced medicines and their recipes.
 ──────────────────────────────────────[/color]
 
-[head=2]NAMING CONVENTION[/head]
-
-     Medicine should be appropriately labelled with its name, application and overdose quantity.
-
-     [italic]FOR EXAMPLE:[/italic]
-                     ─ OXAN - Burns (25u OD)
-
 [head=2]ADVANCED MEDICINES[/head]
      ────────────────────────────────────
-     [color=#35295f][bolditalic]ARTIPLATES:[/bolditalic][/color] (mix above 310K)
+     [color=#35295f][bolditalic]ARTIPLATES:[/bolditalic][/color] (mix between 310K-520K)
                      ─ [color=#b05b3c]Copper[/color] × 1
                      ─ [color=#434b4d]Iron[/color] × 1
                      ▼ [color=#0064c8][bold]Saline[/bold][/color] × 3
@@ -49,12 +42,12 @@
                       |   |  ─ [color=#cccccc]Hydrogen[/color] × 3
                       |   |  ─ [color=#a1e1ff]Nitrogen[/color] × 1
                      ▼ [color=#b4b671][bold]Phenol[/bold][/color]
+                      |  ▼ [color=#b4b671][bold]Benzene[/bold][/color] (mix above 310K)
+                      |   |  ─ [color=#22282b]Carbon[/color]
+                      |   |  ─ [color=#cccccc]Hydrogen[/color]
                       |  ▼ [color=#cccccc][bold]Hydroxide[/bold][/color] (mix above 310K)
                       |   |  ─ [color=#cccccc]Hydrogen[/color]
                       |   |  ─ [color=#9cc3cc]Oxygen[/color]
-                      |  ▼ [color=#b4b671]Benzene[/color] (mix above 310K)
-                      |   |  ─ [color=#22282b]Carbon[/color]
-                      |   |  ─ [color=#cccccc]Hydrogen[/color]
      [color=#bfbfbf]Rapidly heals patients in a critical state. Overdose at 35u.[/color]
      ────────────────────────────────────
      [color=#cac6bf][bolditalic]OXANDROLONE:[/bolditalic][/color]
@@ -71,6 +64,9 @@
                       |   |  ─ [color=#434b4d]Iron[/color]
                       |   |  ─ [color=#364266]Silicon[/color]
                      ▼ [color=#b4b671][bold]Phenol[/bold][/color]
+                      |  ▼ [color=#b4b671][bold]Benzene[/bold][/color] (mix above 310K)
+                      |   |  ─ [color=#22282b]Carbon[/color]
+                      |   |  ─ [color=#cccccc]Hydrogen[/color]
                       |  ▼ [color=#cccccc][bold]Hydroxide[/bold][/color] (mix above 310K)
                       |   |  ─ [color=#cccccc]Hydrogen[/color]
                       |   |  ─ [color=#9cc3cc]Oxygen[/color]

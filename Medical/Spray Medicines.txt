@@ -1,0 +1,67 @@
+# SPRAY MEDICINES
+[color=#404040][color=#5b97bc]█▄ █ ▀█▀    [head=3]SPRAY MEDICINES[/head]
+█ ▀█      █         CHEMICAL SYNTHESIS GUIDE
+──────────────────────────────────────
+     This guide is used to provide chemists with a list of spray-based medicines and their recipes.
+──────────────────────────────────────[/color]
+
+[head=2]INTRODUCTION[/head]
+
+     • These medicines are applied externally via a spray bottle, and require the patient to be stripped of their armor, hardsuit or coat to successfully heal.
+     • Spray-based medicine cannot be overdosed, and works even on dead patients.
+     • Medicine should be appropriately labelled with its name, application and capability to work on dead patients.
+     [bolditalic]FOR EXAMPLE:[/bolditalic]
+                     ─ SILVER SULF - Heat/Cold Spray (deadmed)
+
+[head=2]SPRAY MEDICINES[/head]
+     ────────────────────────────────────
+     [color=#ccbd1c][bolditalic]SILVER SULFADIAZINE:[/bolditalic][/color] (mix above 500K)
+                     ▼ [color=#77b58e][bold]Ammonia[/bold][/color]
+                      |  ─ [color=#cccccc]Hydrogen[/color] × 3
+                      |  ─ [color=#a1e1ff]Nitrogen[/color] × 1
+                     ─ [color=#a2ff00]Chlorine[/color]
+                     ─ [color=#9cc3cc]Oxygen[/color]
+                     ─ [color=#d0d0d0]Silver[/color]
+                     ─ [color=#ccc26a]Sulfur[/color]
+     [color=#bfbfbf]Heals heat and cold.[/color]
+     ────────────────────────────────────
+     [color=#ff9b83][bolditalic]STYPTIC POWDER:[/bolditalic][/color] 
+                     ▼ [color=#c23535][bold]Styptic Crystal Shard[/bold][/color] (grind)
+                      |  ─ [color=#800000]Blood[/color] × 2
+                      |  ─ [color=#a7b3d6]Sodium[/color] × 2
+                      |  ▼ [color=#ed603e][bold]Styptic Crystal Catalyst[/bold][/color] × 1
+                      |   |  ─ [color=#848789]Aluminium[/color]
+                      |   |  ─ [color=#364266]Silicon[/color]
+                      |   |  ▼ [color=#cccccc][bold]Hydroxide[/bold][/color] (mix above 310K)
+                      |   |   |  ─ [color=#cccccc]Hydrogen[/color]
+                      |   |   |  ─ [color=#9cc3cc]Oxygen[/color]
+                      |   |  ▼ [color=#bf8c00][bold]Sulfuric Acid[/bold][/color]
+                      |   |   |  ─ [color=#cccccc]Hydrogen[/color] × 1
+                      |   |   |  ─ [color=#9cc3cc]Oxygen[/color] × 2
+                      |   |   |  ─ [color=#ccc26a]Sulfur[/color] × 1
+     [color=#bfbfbf]Heals brute.[/color]
+     ────────────────────────────────────
+     [color=#cba3a9][bolditalic]SYNTHCELLS:[/bolditalic][/color]
+                     ▼ [color=#f1caa9][bold]Synthflesh[/bold][/color] (centrifuge)
+                      |  ▼ [color=#ac392f][bold]Synthmeat[/bold][/color] (grind)
+                      |   |  ─ [color=#800000]Blood[/color]
+                      |   |  ─ [color=#22282b]Carbon[/color]
+                      |   |  ▼ [color=#b4b671][bold]Phenol[/bold][/color]
+                      |   |   |  ▼ [color=#b4b671][bold]Benzene[/bold][/color] (mix above 310K)
+                      |   |   |   |  ─ [color=#22282b]Carbon[/color]
+                      |   |   |   |  ─ [color=#cccccc]Hydrogen[/color]
+                      |   |   |  ▼ [color=#cccccc][bold]Hydroxide[/bold][/color] (mix above 310K)
+                      |   |   |   |  ─ [color=#cccccc]Hydrogen[/color]
+                      |   |   |   |  ─ [color=#9cc3cc]Oxygen[/color]
+                      |   |  ▼ [color=#bdbdbd][bold]Sodium Polyacrylate[/bold][/color]
+                      |   |   |  ─ [color=#ccc26a]Nitrogen[/color] × 1
+                      |   |   |  ─ [color=#9cc3cc]Oxygen[/color] × 2
+                      |   |   |  ─ [color=#a7b3d6]Sodium[/color] × 1
+     [color=#bfbfbf]Heals toxins. Deals moderate blunt damage.
+     Remember to filter out any by-products made during production.[/color]
+     ────────────────────────────────────
+
+[head=2]ADDITIONAL INFORMATION[/head]
+
+     • One should not be afraid to ask a fellow chemist or the Chief Medical Officer for any assistance.
+     • This is not a complete list of every medicine a chemist should be making during their shift. Consultation of other guides and/or asking for direction is advised.
